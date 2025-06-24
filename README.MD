@@ -81,14 +81,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 ## 👨‍💻 Expert
 
 <p>
-  <img 
-    src="eu.png" 
-    width="80" 
-    style="float: left; margin-right: 10px; border-radius: 50%;" 
-    alt="Foto de Carlos Santos"
-  />
-</p>
-<p>
   <strong>Carlos Santos</strong><br>
   <a href="https://github.com/oCarlosantos" target="_blank">GitHub</a>&nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/carlos-andré-santos-289aa224a/" target="_blank">LinkedIn</a>&nbsp;|&nbsp;
