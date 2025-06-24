@@ -51,9 +51,9 @@ seguem abaixo.
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+|   Ação   | Prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre a importância da I.A. no dia-a-dia do Suporte ao Usuário, o, o ebookk é do nicho de Suporte ao Usuário e o subnicho é de programação, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
+|  Título  | Crie um título de um ebook sobre a importância da I.A. no dia-a-dia do Suporte ao Usuário, o, o ebookk é do nicho de Suporte ao Usuário e o subnicho é de programação, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
 | conteúdo | Faça um texto para ebook , com foco em suporte, listando as principais atividades e exemplos que se pode aplicar a I.A com o Suporte ao Usuário, com exemplos 
 {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
