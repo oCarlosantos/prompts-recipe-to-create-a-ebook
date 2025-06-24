@@ -82,7 +82,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 <p>
   <img 
-    src="eu.jpg" 
+    src="eu.png" 
     width="80" 
     style="float: left; margin-right: 10px; border-radius: 50%;" 
     alt="Foto de Carlos Santos"
